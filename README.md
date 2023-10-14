@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HritikG
-- 👀 I’m interested in Java Development.
-- 🌱 I’m currently learning Java DSA & Algorithm.
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning Java DSA & Algorithm and MERN.
 - 💞️ I’m looking to collaborate on different projects.
 - 📫 Reach me via mail on 13hritik@gmail.com. 
 
